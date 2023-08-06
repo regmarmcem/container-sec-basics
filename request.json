@@ -1,0 +1,10 @@
+{
+    "AttachStdin": false,
+    "AttachStdout": true,
+    "AttachStderr": true,
+    "Tty": true,
+    "OpenStdin": false,
+    "StdinOnce": false,
+    "Entrypoint": "/bin/bash",
+    "Image": "ubuntu:latest"
+}
